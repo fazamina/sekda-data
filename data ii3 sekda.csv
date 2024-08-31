@@ -1,0 +1,91 @@
+keterangan;Golongan Pemilik;2023;Jan-23;Feb-23;Mar-23;Apr-23;May-23;Jun-23;Jul-23;Aug-23;Sep-23;Oct-23;Nov-23;Dec-23;Group of Ownership
+IDR;Rupiah;286,208,115;-;-;-;-;-;-;-;-;-;-;-;286,208,115;Rupiah
+S12;Lembaga Keuangan Lainnya:;2,820,476;-;-;-;-;-;-;-;-;-;-;-;2,820,476;Other Financial Corporations:
+S12001;BUMN dan BUMD;921,515;-;-;-;-;-;-;-;-;-;-;-;921,515;        Public Owned
+S12801;  Perusahaan Asuransi;273,154;-;-;-;-;-;-;-;-;-;-;-;273,154;        Insurance Company
+S12501A;  Lembaga Pembiayaan;304,434;-;-;-;-;-;-;-;-;-;-;-;304,434;        Financial Institutions
+S12501B;  Perusahaan Sekuritas dan Reksadana;144,198;-;-;-;-;-;-;-;-;-;-;-;144,198;        Securities and Mutual Fund Companies
+S12R01;  Lainnya;199,729;-;-;-;-;-;-;-;-;-;-;-;199,729;        Others
+S1200P;BUMN dan BUMD;1,898,961;-;-;-;-;-;-;-;-;-;-;-;1,898,961;        Private Owned
+S1280P;  Perusahaan Asuransi;139,821;-;-;-;-;-;-;-;-;-;-;-;139,821;        Insurance Company
+S1250PA;  Perusahaan Pembiayaan;138,218;-;-;-;-;-;-;-;-;-;-;-;138,218;        Financing Company
+S1250PB;  Modal Ventura;25,335;-;-;-;-;-;-;-;-;-;-;-;25,335;        Venture Capital
+S1290P;  Dana Pensiun;56,616;-;-;-;-;-;-;-;-;-;-;-;56,616;        Pension Funds
+S1250PC;  Perusahaan Sekuritas;511,216;-;-;-;-;-;-;-;-;-;-;-;511,216;        Securities Companies
+S1250PD;  Perusahaan Reksadana;62,418;-;-;-;-;-;-;-;-;-;-;-;62,418;        Mutual Funds
+S12R0P;  Lainnya;965,337;-;-;-;-;-;-;-;-;-;-;-;965,337;        Others
+S1313;Pemerintah Daerah;2,568,112;-;-;-;-;-;-;-;-;-;-;-;2,568,112;State and Local Governments
+S131301L;    Provinsi;84,520;-;-;-;-;-;-;-;-;-;-;-;84,520;   Provinces
+S13130G;    Kota / Kabupaten;2,483,592;-;-;-;-;-;-;-;-;-;-;-;2,483,592;   Municipalities
+S11001;Badan Usaha Bukan Keuangan Milik Negara;5,620,009;-;-;-;-;-;-;-;-;-;-;-;5,620,009;Non-Financial State-Owned Enterprises
+S11001C;    BUMN;5,302,372;-;-;-;-;-;-;-;-;-;-;-;5,302,372;  State-owned enterprises
+S11001R;    BUMD;317,637;-;-;-;-;-;-;-;-;-;-;-;317,637;  Regional owned enterprises
+S1100P;Badan Usaha Bukan-Keuangan Milik Swasta;53,722,411;-;-;-;-;-;-;-;-;-;-;-;53,722,411;Privately Owned Non-Financial Enterprises
+S1P;Sektor Swasta Lainnya;221,477,107;-;-;-;-;-;-;-;-;-;-;-;221,477,107;Other Private Sectors
+S1500P;Yayasan, Badan Sosial, & Org. Kemasyarakatan;-;-;-;-;-;-;-;-;-;-;-;-;-;Social Foundations
+S110025;Koperasi;379,500;-;-;-;-;-;-;-;-;-;-;-;379,500;Cooperatives
+S14;Perseorangan;213,358,734;-;-;-;-;-;-;-;-;-;-;-;213,358,734;Individuals
+S_X;Lainnya;-;-;-;-;-;-;-;-;-;-;-;-;-;Others 
+X1;Valuta Asing;31,684,736;-;-;-;-;-;-;-;-;-;-;-;31,684,736;Foreign Currency
+S12;Lembaga Keuangan Lainnya:;50,556;-;-;-;-;-;-;-;-;-;-;-;50,556;Other Financial Corporations:
+S12001;BUMN dan BUMD;70;-;-;-;-;-;-;-;-;-;-;-;70;        Public Owned
+S12801;  Perusahaan Asuransi;70;-;-;-;-;-;-;-;-;-;-;-;70;        Insurance Company
+S12501A;  Lembaga Pembiayaan;-;-;-;-;-;-;-;-;-;-;-;-;-;        Financial Institutions
+S12501B;  Perusahaan Sekuritas dan Reksadana;-;-;-;-;-;-;-;-;-;-;-;-;-;        Securities and Mutual Fund Companies
+S12R01;  Lainnya;-;-;-;-;-;-;-;-;-;-;-;-;-;        Others
+S1200P;BUMN dan BUMD;50,487;-;-;-;-;-;-;-;-;-;-;-;50,487;        Private Owned
+S1280P;  Perusahaan Asuransi;42;-;-;-;-;-;-;-;-;-;-;-;42;        Insurance Company
+S1250PA;  Perusahaan Pembiayaan;5,655;-;-;-;-;-;-;-;-;-;-;-;5,655;        Financing Company
+S1250PB;  Modal Ventura;4,612;-;-;-;-;-;-;-;-;-;-;-;4,612;        Venture Capital
+S1290P;  Dana Pensiun;-;-;-;-;-;-;-;-;-;-;-;-;-;        Pension Funds
+S1250PC;  Perusahaan Sekuritas;551;-;-;-;-;-;-;-;-;-;-;-;551;        Securities Companies
+S1250PD;  Perusahaan Reksadana;-;-;-;-;-;-;-;-;-;-;-;-;-;        Mutual Funds
+S12R0P;  Lainnya;39,627;-;-;-;-;-;-;-;-;-;-;-;39,627;        Others
+S1313;Pemerintah Daerah;311;-;-;-;-;-;-;-;-;-;-;-;311;State and Local Governments
+S131301L;    Provinsi;-;-;-;-;-;-;-;-;-;-;-;-;-;  Provinces
+S13130G;    Kota / Kabupaten;311;-;-;-;-;-;-;-;-;-;-;-;311;  Municipalities
+S11001;Badan Usaha Bukan Keuangan Milik Negara;3,033,577;-;-;-;-;-;-;-;-;-;-;-;3,033,577;Non-Financial State-Owned Enterprises
+S11001C;    BUMN;3,033,577;-;-;-;-;-;-;-;-;-;-;-;3,033,577;  State-owned enterprises
+S11001R;    BUMD;-;-;-;-;-;-;-;-;-;-;-;-;-;  Regional owned enterprises
+S1100P;Badan Usaha Bukan-Keuangan Milik Swasta;15,905,517;-;-;-;-;-;-;-;-;-;-;-;15,905,517;Privately Owned Non-Financial Enterprises
+S1P;Sektor Swasta Lainnya;12,694,776;-;-;-;-;-;-;-;-;-;-;-;12,694,776;Other Private Sectors
+S1500P;Yayasan, Badan Sosial, & Org. Kemasyarakatan;-;-;-;-;-;-;-;-;-;-;-;-;-;Social Foundations
+S110025;Koperasi;98;-;-;-;-;-;-;-;-;-;-;-;98;Cooperatives
+S14;Perseorangan;10,317,537;-;-;-;-;-;-;-;-;-;-;-;10,317,537;Individuals
+S_X;Lainnya;-;-;-;-;-;-;-;-;-;-;-;-;-;Others 
+_T;Rupiah dan Valuta Asing;317,892,851;-;-;-;-;-;-;-;-;-;-;-;317,892,851;Foreign Currency
+S12;Lembaga Keuangan Lainnya:;2,871,032;-;-;-;-;-;-;-;-;-;-;-;2,871,032;Other Financial Corporations:
+S12001;BUMN dan BUMD;921,585;-;-;-;-;-;-;-;-;-;-;-;921,585;        Public Owned
+S12801;  Perusahaan Asuransi;273,224;-;-;-;-;-;-;-;-;-;-;-;273,224;        Insurance Company
+S12501A;  Lembaga Pembiayaan;304,434;-;-;-;-;-;-;-;-;-;-;-;304,434;        Financial Institutions
+S12501B;  Perusahaan Sekuritas dan Reksadana;144,198;-;-;-;-;-;-;-;-;-;-;-;144,198;        Securities and Mutual Fund Companies
+S12R01;  Lainnya;199,729;-;-;-;-;-;-;-;-;-;-;-;199,729;        Others
+S1200P;BUMN dan BUMD;1,949,447;-;-;-;-;-;-;-;-;-;-;-;1,949,447;        Private Owned
+S1280P;  Perusahaan Asuransi;139,862;-;-;-;-;-;-;-;-;-;-;-;139,862;        Insurance Company
+S1250PA;  Perusahaan Pembiayaan;143,873;-;-;-;-;-;-;-;-;-;-;-;143,873;        Financing Company
+S1250PB;  Modal Ventura;29,947;-;-;-;-;-;-;-;-;-;-;-;29,947;        Venture Capital
+S1290P;  Dana Pensiun;56,616;-;-;-;-;-;-;-;-;-;-;-;56,616;        Pension Funds
+S1250PC;  Perusahaan Sekuritas;511,767;-;-;-;-;-;-;-;-;-;-;-;511,767;        Securities Companies
+S1250PD;  Perusahaan Reksadana;62,418;-;-;-;-;-;-;-;-;-;-;-;62,418;        Mutual Funds
+S12R0P;  Lainnya;1,004,965;-;-;-;-;-;-;-;-;-;-;-;1,004,965;        Others
+S1313;Pemerintah Daerah;2,568,422;-;-;-;-;-;-;-;-;-;-;-;2,568,422;State and Local Governments
+S131301L;    Provinsi;84,520;-;-;-;-;-;-;-;-;-;-;-;84,520;  Provinces
+S13130G;    Kota / Kabupaten;2,483,903;-;-;-;-;-;-;-;-;-;-;-;2,483,903;  Municipalities
+S11001;Badan Usaha Bukan Keuangan Milik Negara;8,653,585;-;-;-;-;-;-;-;-;-;-;-;8,653,585;Non-Financial State-Owned Enterprises
+S11001C;    BUMN;8,335,948;-;-;-;-;-;-;-;-;-;-;-;8,335,948;  State-owned enterprises
+S11001R;    BUMD;317,637;-;-;-;-;-;-;-;-;-;-;-;317,637;  Regional owned enterprises
+S1100P;Badan Usaha Bukan-Keuangan Milik Swasta;69,627,928;-;-;-;-;-;-;-;-;-;-;-;69,627,928;Privately Owned Non-Financial Enterprises
+S1P;Sektor Swasta Lainnya;234,171,883;-;-;-;-;-;-;-;-;-;-;-;234,171,883;Other Private Sectors
+S1500P;Yayasan, Badan Sosial, & Org. Kemasyarakatan;-;-;-;-;-;-;-;-;-;-;-;-;-;Social Foundations
+S110025;Koperasi;379,598;-;-;-;-;-;-;-;-;-;-;-;379,598;Cooperatives
+S14;Perseorangan;223,676,271;-;-;-;-;-;-;-;-;-;-;-;223,676,271;Individuals
+S_X;Lainnya;-;-;-;-;-;-;-;-;-;-;-;-;-;Others 
+MI;Memorandum Items;;;;;;;;;;;;;;Memorandum Items
+S1311;Pemerintah Pusat;;;;;;;;;;;;;;Central Government
+IDR; Rupiah;;;;;;;;;;;;;;Rupiah
+X1; Valuta Asing;;;;;;;;;;;;;;Foreign Currency
+_T; Rupiah dan Valuta Asing;;;;;;;;;;;;;;Rupiah dan Foreign Currency
+S2;Bukan Penduduk;;;;;;;;;;;;;;Non Resident 
+IDR; Rupiah;;;;;;;;;;;;;;Rupiah
+X1; Valuta Asing;;;;;;;;;;;;;;Foreign Currency
+_T; Rupiah dan Valuta Asing;;;;;;;;;;;;;;Rupiah dan Foreign Currency
